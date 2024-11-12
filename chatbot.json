@@ -1,0 +1,13 @@
+{
+    "knowledge_base": [
+        "A chatbot is a software application used to conduct an online chat conversation via text or text-to-speech.",
+        "Chatbots are often used in customer service to provide quick responses to frequently asked questions.",
+        "Some chatbots use artificial intelligence to provide a more interactive and human-like experience.",
+        "There are many types of chatbots, including rule-based and AI-based chatbots."
+    ],
+    "greetings": {
+        "inputs": ["hello", "hi", "greetings", "sup", "what's up", "hey"],
+        "responses": ["hi", "hey", "*nods*", "hi there", "hello", "I am glad! You are talking to me"]
+    },
+    "fallback_response": "I am sorry! I don't understand you."
+}
